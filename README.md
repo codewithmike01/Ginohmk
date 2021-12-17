@@ -13,8 +13,21 @@
 
 <br>
 
-<h3 align="center">GitHub Statistics:</h3>
+### Languages. :man_technologist:
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)  &nbsp;
+ ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)  &nbsp;
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 
+
+
+### Tools. 🛠 
+![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)  &nbsp;
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)  &nbsp;
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)  
+
+
+
+<h3 align="center">GitHub Statistics:</h3>
 <p align="center">
    <a href="https://github.com/ginohmk">
  &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ginohmk&show_icons=true&locale=en" alt="Mike" />
@@ -51,6 +64,7 @@ src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Face
 </div>
 <br> <br>
 
+
 **Check the Repositories and don't forget to give a star.** 👇
 
 :star: From [mike](https://github.com/ginohmk)
@@ -58,4 +72,15 @@ src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Face
 <!---
 Ginohmk/Ginohmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+languages and framework
+![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+<img src="https://img.icons8.com/ios-filled/50/000000/flask.png"/>
+![TypeScript](https://icongr.am/devicon/typescript-original.svg?size=50&color=currentColor)
+![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
+<img src="https://img.icons8.com/nolan/50/react-native.png"/>
+![Nodejs](https://icongr.am/devicon/nodejs-original.svg?size=50&color=currentColor)
+
+tools
+![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
 --->
