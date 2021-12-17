@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Ginohmk Mike
-- 👀 I’m interested in Programming
+ # 👋 Hi there, it's Mike your ever ready developer! 💞️
+
 - 🌱 I’m currently learning Ruby on Rails
+
+
+## About Mike
+:heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :black_heart:  Coffee
+- I am a full time student at Microverse, learning Full Stack Web Development.
+- I love collaborating on Coding  :black_heart:
+- I enjoy feedbacks, becuase it helps me become a better person and a better programmer
+### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 - 💞️ I’m looking to collaborate on Front-End Web Development 
-
-
-
 
 <br>
 
