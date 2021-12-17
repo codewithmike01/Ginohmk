@@ -1,6 +1,6 @@
  # 👋 Hi there, it's Mike your ever ready developer! :v: :smiley:
 
-- 🌱 I’m currently learning Ruby on Rails
+- 🌱 I’m currently learning **JavaScript & React**
 
 
 ## About Mike
