@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Ruby on Rails
 - 💞️ I’m looking to collaborate on Front-End Web Development 
-- 📫 [Whatsapp](https://wa.me/+2348130262441)
+
 
 
 
@@ -25,7 +25,18 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 <a target="_blank"
 href="https://www.twitter.com/michotall95"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank"
+href="https://wa.me/+2348130262441"><img
+src="https://img.shields.io/badge/-Whatsapp-0077b5?style=for-the-badge&logo=Whatsapp&logoColor=white"></img></a>
+<a target="_blank"
+href="https/instagram.com/savy_kanu_mike"><img
+src="https://img.shields.io/badge/-Instagram-D14836?style=for-the-badge&logo=Instagram&logoColor=white"></img></a>
+<a target="_blank"
+href="https://www.facebook.com/mike.kanu"><img
+src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Facebook&logoColor=white"></img></a>
 <div/>
+
+
 <!---
 Ginohmk/Ginohmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
