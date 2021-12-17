@@ -1,4 +1,4 @@
- # 👋 Hi there, it's Mike your ever ready developer! 💞️
+ # 👋 Hi there, it's Mike your ever ready developer! :v: :smiley:
 
 - 🌱 I’m currently learning Ruby on Rails
 
@@ -15,9 +15,16 @@
 
 <h3 align="center">GitHub Statistics:</h3>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ginohmk&show_icons=true&locale=en" alt="Henry" /></p>
+<p align="center">
+   <a href="https://github.com/ginohmk">
+ &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ginohmk&show_icons=true&locale=en" alt="Mike" />
+   &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginohmk&show_icons=true&theme=midnight-white&layout=compact" alt="Mike" />
+ &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ginohmk&theme=radical" alt="Mike" />
+</p>
+ </a>
+<p align="center"></p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ginohmk&theme=radical" alt="Henry" /></p>
+
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
