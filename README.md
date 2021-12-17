@@ -4,7 +4,7 @@
 
 
 ## About Mike
-:heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :black_heart:  Coffee
+:heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Football | :black_heart:  Coffee
 - I am a full time student at Microverse, learning Full Stack Web Development.
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
