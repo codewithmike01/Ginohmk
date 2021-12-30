@@ -67,7 +67,7 @@ src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Face
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [mike](https://github.com/ginohmk)
+:star: From [mike](https://github.com/Ginohmk?tab=repositories)
 -------
 <!---
 Ginohmk/Ginohmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
