@@ -3,13 +3,20 @@
 - 🌱 I’m currently learning **JavaScript & React**
 
 
-## About Mike
+## About Mike FullStack Developer | Avialiable for Hire 🕹️
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Football | :black_heart:  Coffee
 - I am currently a full time student at Microverse, learning Full Stack Web Development.
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 - 💞️ I’m looking to collaborate on Front-End Web Development 
+- Email: michotall95@gmail.com
+- Nationality: Nigerian
+
+<br>
+
+### Languages
+[PortFolio](https://ginohmk.github.io/My-portfolio/)
 
 <br>
 
