@@ -16,10 +16,6 @@
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 - 💞️ I’m looking to collaborate on Front-End Web Development 
-- Email: michotall95@gmail.com
-- Nationality: Nigerian
-
-<br>
 
 ### Languages
 [PortFolio](https://ginohmk.github.io/My-portfolio/)
