@@ -14,7 +14,7 @@
 - I am currently a full time student at Microverse, learning Full Stack Web Development.
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
-- - 💞️ I’m looking to collaborate on Front-End Web Development 
+- 💞️ I’m looking to collaborate on Front-End Web Development 
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 
 
