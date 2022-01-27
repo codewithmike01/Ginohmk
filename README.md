@@ -18,6 +18,7 @@
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
 - 💞️ I’m looking to collaborate on Front-End Web Development 
+- ![](https://komarev.com/ghpvc/?username=ginohmk&label=VIEWS)
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 
 
