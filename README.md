@@ -28,7 +28,9 @@
 <br>
 
 ### Languages. :man_technologist:
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)  &nbsp;
+
+
+  ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)&nbsp;
  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)  &nbsp;
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)&nbsp;
 ![Bootstrapb](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=7b2ca0) &nbsp;
