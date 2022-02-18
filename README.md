@@ -30,14 +30,24 @@
 ### Languages. :man_technologist:
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)  &nbsp;
  ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)  &nbsp;
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
+![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)&nbsp;
+![Bootstrapb](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=7b2ca0) &nbsp;
+![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)&nbsp;
+![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
+
+
 
 
 
 ### Tools. 🛠 
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)  &nbsp;
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)  &nbsp;
-![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)  
+![GitHub](https://icongr.am/devicon/github-original.svg?size=50&color=currentColor)  &nbsp;
+![Babel](https://icongr.am/devicon/babel-original.svg?size=50&color=currentColor) &nbsp;
+![Illustrator](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=aa6313) &nbsp;
+![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor) &nbsp;
+![Photoshop](https://icongr.am/devicon/photoshop-plain.svg?size=50&color=131daa) &nbsp;
+![VsCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=131daa) &nbsp;
 
 
 
