@@ -10,7 +10,6 @@
 </p>
 
 
-
 ## About Mike 
 ### full-stack developer | Avialiable for Hire 🕹️
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Football | :black_heart:  Coffee
@@ -18,20 +17,16 @@
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
 - 💞️ I’m looking to collaborate on Front-End Web Development 
+- [Link to PortFolio :smiley: ](https://ginohmk.github.io/MyPortfolioBlog/)
 - ![](https://komarev.com/ghpvc/?username=ginohmk&label=VIEWS)
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 
 
 ### Languages
-[PortFolio](https://ginohmk.github.io/MyPortfolioBlog/)
-
-<br>
 
 ### Languages. :man_technologist:
-
-
-  ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)&nbsp;
- ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)  &nbsp;
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)&nbsp;
+![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)  &nbsp;
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)&nbsp;
 ![Bootstrapb](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=7b2ca0) &nbsp;
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)&nbsp;
