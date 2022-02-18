@@ -36,9 +36,6 @@
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
 
 
-
-
-
 ### Tools. 🛠 
 ![Npm](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)  &nbsp;
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=currentColor)  &nbsp;
@@ -48,7 +45,13 @@
 ![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor) &nbsp;
 ![Photoshop](https://icongr.am/devicon/photoshop-plain.svg?size=50&color=131daa) &nbsp;
 ![VsCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=131daa) &nbsp;
+<br > <br ><br > <br >
 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ginohmk&theme=nord&row=1&column=6" alt="ginohmk" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/michotall95" target="blank"><img src="https://img.shields.io/twitter/follow/Mike?logo=twitter&style=for-the-badge" alt="Mike" /></a> </p>
 
 
 <h3 align="center">GitHub Statistics:</h3>
