@@ -31,6 +31,7 @@
 ![Bootstrapb](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=7b2ca0) &nbsp;
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)&nbsp;
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
+ <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' alt='Redux Logo' width='50'>&nbsp;
 
 
 ### Tools. 🛠 
@@ -42,7 +43,10 @@
 ![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor) &nbsp;
 ![Photoshop](https://icongr.am/devicon/photoshop-plain.svg?size=50&color=131daa) &nbsp;
 ![VsCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=131daa) &nbsp;
+![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)
 <br > <br ><br > <br >
+
+
 
 
 
