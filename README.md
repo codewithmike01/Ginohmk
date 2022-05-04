@@ -31,6 +31,7 @@
 ![Bootstrapb](https://icongr.am/devicon/bootstrap-plain-wordmark.svg?size=50&color=7b2ca0) &nbsp;
 ![Sass](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)&nbsp;
 ![React](https://icongr.am/devicon/react-original-wordmark.svg?size=50&color=currentColor)&nbsp;
+![Ruby](https://icongr.am/devicon/ruby-original.svg?size=49&color=currentColor)&nbsp;
 
 
 <!--
