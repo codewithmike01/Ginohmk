@@ -16,9 +16,14 @@
 - I am currently a full time student at Microverse, learning Full Stack Web Development.
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer
-- 💞️ I’m looking to collaborate on Front-End Web Development 
+-  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
+- 💞️ I am looking for internships and job opportunites.
 - [Link to PortFolio :smiley: ](https://ginohmk.github.io/MyPortfolioBlog/)
+- What I am looking for in a job, is a diverse culture of working colleagues, being able to grow with the company, learning new technology, having a mentor i can work closely with.
+- For future I am planning to contribute more to open source and learn more about frontend development and web security.
 - ![](https://komarev.com/ghpvc/?username=ginohmk&label=VIEWS)
+
+
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 
 
