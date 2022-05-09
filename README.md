@@ -61,7 +61,6 @@
 ![Illustrator](https://icongr.am/devicon/illustrator-plain.svg?size=50&color=aa6313) &nbsp;
 ![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor) &nbsp;
 ![Photoshop](https://icongr.am/devicon/photoshop-plain.svg?size=50&color=131daa) &nbsp;
-![VsCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=131daa) &nbsp;
 ![Heroku](https://icongr.am/devicon/heroku-original.svg?size=50&color=currentColor)&nbsp;
 ![Linux](https://icongr.am/devicon/linux-original.svg?size=49&color=currentColor)&nbsp;
 <br > <br ><br > <br >
