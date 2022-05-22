@@ -113,7 +113,7 @@ src="https://img.shields.io/badge/-Facebook-1DA1F2?style=for-the-badge&logo=Face
 <br> <br>
 
 
-**Check the Repositories and please don't forget to give a star. Thanks** :smiley:
+**Check the Repositories and please don't forget to give a star. Thanks** :smiley: :v:
 
 :star: From [mike](https://github.com/Ginohmk?tab=repositories)
 -------
