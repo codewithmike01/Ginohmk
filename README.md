@@ -1,4 +1,4 @@
- #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there, it's Mike, your ever ready developer! :v: :smiley:
+ #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there, it's Coded Mike, your ever ready developer! :v: :smiley:
  
 
 
@@ -10,7 +10,7 @@
 </p>
 
 
-## About Mike 
+## About Coded Mike 
 ### full-stack developer | Avialiable for Hire 🕹️
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Football | :black_heart:  Coffee
 - I am currently a full time student at Microverse, learning Full Stack Web Development.
