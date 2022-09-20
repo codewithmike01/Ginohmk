@@ -10,7 +10,7 @@
 </p>
 
 
-## About Coded Mike
+## About Mike
 ### Full-stack Software Engineer | Avialiable for Hire 🕹️
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart:  Playing Football | :black_heart:  Coffee
 - I am a student of Microverse Full Stack Web Development school.
