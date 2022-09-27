@@ -1,4 +1,4 @@
- #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there, it's Mike, your favourite developer! :v: :smiley:
+ #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there, it's mike, your favourite developer! :v: :smiley:
  
 
 
