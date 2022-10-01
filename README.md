@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m constantly learning **Daily**
+- 🌱 I am constantly learning **Daily**
 
 
 [<p align='center'>![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Enthusiastic;FullStack+Web+Developer;Passionate+about+Algorithm+and+crypto)](https://git.io/typing-svg)
