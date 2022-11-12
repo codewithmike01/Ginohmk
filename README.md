@@ -86,8 +86,7 @@
 </p>
 
 
-
-
+[![@ginohmk's Holopin board](https://holopin.me/ginohmk)](https://holopin.io/@ginohmk)
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
