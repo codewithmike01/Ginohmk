@@ -3,14 +3,14 @@
 
 
 
-- 🌱 I  learn **Daily**
+- 🌱 I  learn  **Daily**
 
 
 [<p align='center'>![Typing SVG](https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Technology+Enthusiastic;FullStack+Web+Developer;Passionate+about+Algorithm+and+crypto)](https://git.io/typing-svg)
 </p>
 
 
-## About me
+## About mike
 ### Full-stack Software Engineer | Avialiable for Hire 🕹️
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart: Football | :black_heart:  Coffee
 - I am a student of Microverse Full Stack Web Development school.
