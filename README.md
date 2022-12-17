@@ -26,9 +26,7 @@
 
 ### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
 
-<img src="https://activity-graph.herokuapp.com/graph?username=ginohmk&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
-### Languages
 
 ### Languages. :man_technologist:
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)&nbsp;
