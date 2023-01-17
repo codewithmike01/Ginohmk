@@ -73,15 +73,7 @@
 <p align="left"> <a href="https://twitter.com/michotall95" target="blank"><img src="https://img.shields.io/twitter/follow/Mike?logo=twitter&style=for-the-badge" alt="Mike" /></a> </p>
 
 
-<h3 align="center">GitHub Statistics:</h3>
-<p align="center">
-   <a href="https://github.com/ginohmk">
- &nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ginohmk&show_icons=true&locale=en" alt="Mike" />
-   &nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginohmk&show_icons=true&theme=midnight-white&layout=compact" alt="Mike" />
-    <br>
- &nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=ginohmk&theme=radical" alt="Mike" />
-     </a>
-</p>
+
 
 
 [![@ginohmk's Holopin board](https://holopin.me/ginohmk)](https://holopin.io/@ginohmk)
