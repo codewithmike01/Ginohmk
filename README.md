@@ -11,14 +11,13 @@
 
 
 ## About Me
-### Full-stack Software Engineer | Avialiable for Hire 🕹️
+### Full-stack Software Engineer | Avialiable for Hire 🕹️ | [My PortFolio :smiley: ](https://ginohmk.github.io/MyPortfolioBlog/)
 :heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart: Football | :black_heart:  Coffee
 - I am a graduate student of Microverse Full Stack Web Development school.
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer.:orange_heart:
 -  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
 - 💞️ I am looking for internships or a full-time job opportunites.
-- [My PortFolio :smiley: ](https://ginohmk.github.io/MyPortfolioBlog/)
 - I am looking for a diverse culture of working colleagues, being able to grow with the company, learning new technology, having a mentor i can work closely with. :blue_heart:
 - For future I am planning to contribute more to open source and learn more about frontend development and web security.
 - ![](https://komarev.com/ghpvc/?username=ginohmk&label=VIEWS)
