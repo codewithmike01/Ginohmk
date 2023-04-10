@@ -12,7 +12,7 @@
 
 ## About Mike
 ### Full-stack Software Engineer | Avialiable for Hire 🕹️ | [My PortFolio :smiley: ](https://www.royalcodemate.com/)
-:heart: Programming | :black_heart: Communicating | :blue_heart: Learning New Tech Things | :orange_heart: Football | :black_heart:  Coffee
+:heart: Programming | :black_heart: Communication | :blue_heart: Learning New Tech Things | :orange_heart: Football | :black_heart:  Coffee
 - I am a graduate student of Microverse Full Stack Web Development school.
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedbacks, becuase it helps me become a better person and a better programmer.:orange_heart:
