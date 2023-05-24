@@ -19,7 +19,7 @@
 -  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
 - 💞️ I am looking for internships or a full-time job opportunites.
 - I am looking for a diverse culture of working colleagues, being able to grow with the company, learning new technology, having a mentor i can work closely with. :blue_heart:
-- I aim to contribute more to open source and learn more about frontend development and web security.
+- I aim to contribute more to open source and learn more about frontend development, web security and automation. 
 - ![](https://komarev.com/ghpvc/?username=ginohmk&label=VIEWS)
 
 
