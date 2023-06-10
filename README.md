@@ -1,4 +1,4 @@
- #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi there!!!, My name is Mike Kanu, Nice to meet you!! :heart:
+ #  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> Hi, My name is Mike Kanu, Nice to meet you!! :heart:
  
 
 
