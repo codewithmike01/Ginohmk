@@ -11,20 +11,20 @@
 
 
 ## About Mike
-### Frontend Web Engineer | Avialiable for Hire 🕹️ | [My PortFolio :smiley: ](https://www.royalcodemate.com/)
+### Frontend Web Engineer | Available for Hire 🕹️ | [My PortFolio :smiley: ](https://www.royalcodemate.com/)
 :heart: Programming | :black_heart: Communication | :blue_heart: Learning New Tech Things | :orange_heart: Football | :black_heart:  Coffee
 - I am a graduate student of Microverse Full Stack Web Development school.
-- My three most favourite words Perseverance, Curiosity and Grit 
+- My three favorite words are Perseverance, Curiosity, and Grit. 
 - I love collaborating on Coding  :black_heart:
-- I enjoy feedbacks, becuase it helps me become a better person and a better programmer.:orange_heart:
--  I am interested in web developement and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
-- 💞️ I am looking for internships or a full-time job opportunites.
-- I am looking for a diverse culture of working colleagues, being able to grow with the company, learning new technology, having a mentor i can work closely with. :blue_heart:
-- I aim to contribute more to open source and learn more about frontend development, web security and automation. 
+- I enjoy feedback because it helps me become a better person and a better programmer.:orange_heart:
+-  I am interested in web development and can pick up skills quickly, and also willing to dive deep into learning the requisite skills if the job provides the space to learn and grow.
+- 💞️ I am looking for internships or full-time job opportunities.
+- I am looking for a diverse culture of working with colleagues, being able to grow with the company, learning new technology, and having a mentor I can work closely with. :blue_heart:
+- I aim to contribute more to open source and learn more about frontend development, web security, and automation. 
 - ![](https://komarev.com/ghpvc/?username=ginohmk&label=VIEWS)
 
 
-### Quote: Do What Makes You Happy, as Long as it's not hurting the Ones who loves you :heart:
+### Quote: Do What Makes You Happy, as long as it's not hurting the Ones who love you :heart:
 
 
 
