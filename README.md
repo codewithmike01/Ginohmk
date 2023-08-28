@@ -39,16 +39,7 @@
 
 
 
-<!--
-<div style="border:2px solid red">
- <span >
-    <img src='https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png' alt='Redux Logo' width='50'>&nbsp;  Redux 
- </span>
- <span>
-  <img src='https://user-images.githubusercontent.com/58771507/156933452-21a71f91-bef0-4b95-af23-5a282aef0f7c.png' alt='Html5 logo' width='50'>&nbsp; HTML5
- </span>
-</div>
--->
+
 
 
 
