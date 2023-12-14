@@ -13,7 +13,7 @@
 ## About Mike
 ### Frontend Web Engineer | Available for Hire 🕹️ | [My PortFolio :smiley: ](https://www.royalcodemate.com/)
 :heart: Programming | :black_heart: Communication | :blue_heart: Learning Daily | :orange_heart: Football | :black_heart:  Coffee
-- I am a graduate student of Microverse Full Stack Web Development school.
+- I am a graduate student of Computer science. 
 - My three favorite words are Perseverance, Curiosity, and Grit. 
 - I love collaborating on Coding  :black_heart:
 - I enjoy feedback because it helps me become a better person and a better programmer.:orange_heart:
